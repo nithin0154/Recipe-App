@@ -231,6 +231,7 @@ body {
 
   .search input {
     width: 180px;
+    margin:10px 2px 10px 0;
   }
 
   .search button {
@@ -250,4 +251,8 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
   }
+  .navbar h2 {
+  margin-left: 0px;
+  
+}
 }
